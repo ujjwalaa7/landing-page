@@ -152,6 +152,9 @@ input, select, textarea {
 		}
 
 	body {
+		/* background-color: #4a4646;
+		color: #fbfbfb; */
+
 		background-color: #fefefe;
 		color: #010101;
 	}
